@@ -1,0 +1,25 @@
+.team__section {
+  background-color: #f5f4fa;
+}
+
+.team__wrapper {
+  padding: 95px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.team__wrapper > h2 {
+  color: #212121;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 42px;
+}
+
+.team__wrapper > ul {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}

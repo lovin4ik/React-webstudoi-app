@@ -1,0 +1,23 @@
+.work__section {
+  margin-bottom: 95px;
+  background-color: #F5F4FA;
+}
+.work__section > .wrapper > .work__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.work__section > .wrapper > .work__wrapper > h2 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 42px;
+  color: #212121;
+  padding: 95px 0 0 0;
+}
+.work__section > .wrapper > .work__wrapper > ul {
+  display: flex;
+  gap: 30px;
+}

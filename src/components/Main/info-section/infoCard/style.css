@@ -1,0 +1,29 @@
+.info-item {
+  max-width: 270px;
+}
+.info-item > .info-svg {
+  background-color: #f5f4fa;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.info-item > .info-svg > img {
+  background-color: #f5f4fa;
+  padding: 25px 0;
+  width: 70px;
+  height: 120px;
+}
+.info-item > h3 {
+  color: #212121;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  padding: 30px 0 10px 0;
+}
+.info-item > p {
+  color: #757575;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}

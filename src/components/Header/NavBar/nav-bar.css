@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  gap: 90px;
+  align-items: center;
+}
+
+.logo {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 30px;
+}
+
+.logo > span {
+  color: #2196f3;
+}
+
+.navbar__menu {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+.navbar__menu > li > a {
+  color: #212121;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}

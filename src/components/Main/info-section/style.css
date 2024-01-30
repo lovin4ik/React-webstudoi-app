@@ -1,0 +1,7 @@
+.info {
+  margin: 95px 0;
+}
+.info > .wrapper > ul {
+  display: flex;
+  gap: 30px;
+}
